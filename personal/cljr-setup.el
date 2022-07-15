@@ -1,3 +1,5 @@
+(prelude-require-package 'clj-refactor)
+
 (require 'clj-refactor)
 
 (defun my-clojure-mode-hook ()
