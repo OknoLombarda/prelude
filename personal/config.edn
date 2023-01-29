@@ -1,0 +1,3 @@
+{:document-formatting?       false
+ :document-range-formatting? false
+ :text-document-sync-kind    :incremental}
