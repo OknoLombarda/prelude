@@ -1,3 +1,2 @@
-(prelude-require-package 'kibit-helper)
-
-(require 'kibit-helper)
+(prelude-require-package 'lsp-java)
+(require 'lsp-java)
